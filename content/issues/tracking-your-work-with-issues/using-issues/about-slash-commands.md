@@ -1,3 +1,4 @@
+![qrcode](https://github.com/user-attachments/assets/0cd1edb2-f68b-410b-ac3d-1f9ccb8e8f12)
 ---
 title: About slash commands
 intro: 'Slash commands can save you time by reducing the typing required to create complex Markdown.'
